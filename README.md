@@ -167,17 +167,6 @@ Run collaborative filtering:
 python collaborative_filtering.py
 ```
 
----
-
-# 🚀 Future Improvements
-
-* Hybrid recommendation system (Content + Collaborative)
-* Product ranking using ratings and popularity
-* Web interface using Flask or Streamlit
-* Model evaluation metrics
-
----
-
 # 👩‍💻 Author
 
 **Dakinisvari S**
